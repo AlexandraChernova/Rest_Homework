@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ya6ldrlgq92mvgld?svg=true)](https://ci.appveyor.com/project/AlexandraChernova/rest-homework)
